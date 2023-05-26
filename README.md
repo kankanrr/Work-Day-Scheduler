@@ -28,6 +28,6 @@ Simply click on any timeslot and type in whatever you need to. If you use this f
 
 ## Conclusion
 - - - -
-The page is live and ready to use at:
+The page is live and ready to use at: https://kankanrr.github.io/Work-Day-Scheduler/
 
 Have fun using the work day scheduler site !
